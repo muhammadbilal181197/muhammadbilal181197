@@ -22,7 +22,7 @@
 
 <br>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaryab-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Zaryab-Programmer" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadbilal181197&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadbilal181197" /> </p>
 
 ## Muhammad Bilal's Github Stats
 
@@ -39,5 +39,3 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" alt="mongodb" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="30" height="30"/>
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/sass.png" alt="scss" width="30" height="30"/>
-
