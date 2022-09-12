@@ -6,21 +6,20 @@
 
 
 ### Hi Devs 👋
-<h1 align="center">I am Muhammad Zaryab Rafique</h1>
+<h1 align="center">I am Muhammad Bilal</h1>
 
 <p align="center"> <b><i>Change your work way, Every problem has a solution -- Zaryab</i><b> </p>
 <br>
   
-- 🚀 Blockchain Engineer
+- 🚀 Frontend Engineer
 
-- 🔭 I’m currently working on **BLOCKCHAIN, ETHEREUM - SOLIDITY, SOLANA - RUST, POLKADOT, SUBSTRATE, ANDROID**
+- 🔭 I’m currently working on **Frontend Development**
 
-- 🌱 I’m currently learning **BLOCKCHAIN DAPP DECENTRALIZATION and RUST**
+- 🌱 I’m currently learning **React JS**
 
-- 🤝 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
+- 💞️ I’m looking to collaborate on **React.Js, JavaScript**
 
-- 👨‍💻 Check my website : https://mzaryabrafique.live
-
+- 📫 How to reach me **muhammadbilal181197@gmail.com**
 
 ### Connect me at here
 
@@ -44,8 +43,8 @@
 
 ## Muhammad Zaryab Rafique's Github Stats
 
-<span> ![Zaryab's github stats](https://github-readme-stats.vercel.app/api?username=Zaryab-Programmer&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaryab-Programmer&theme=tokyonight)</span>
+<span> ![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=muhammadbilal181197&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadbilal181197&theme=tokyonight)</span>
 
 
 ### Top Tools & Languages <br>
